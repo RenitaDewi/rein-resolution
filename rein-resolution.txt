@@ -1,0 +1,4 @@
+Rein Resolution
+- Konsisten untuk belajar jadi fullstack developer 2x seminggu
+- Membuat platform untuk pengelolaan bahan belajar
+- Membuat forum diskusi bagi para pemula
