@@ -3,6 +3,7 @@ RENCANA KONTEN REINKARS
 - Javascript
   * ES6 (Syntax Javascript yang baru)
   * Framework Javascript
+- Struktur Data Dasar
 - PHP FRAMEWORKS
 - WORDPRESS
 - Android Dev
