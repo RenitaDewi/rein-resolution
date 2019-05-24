@@ -4,6 +4,7 @@ RENCANA KONTEN REINKARS
   * ES6 (Syntax Javascript yang baru)
   * Framework Javascript
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP FRAMEWORKS
   ^ Laravel
