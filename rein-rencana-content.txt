@@ -3,7 +3,10 @@ RENCANA KONTEN REINKARS
 - Javascript
   * ES6 (Syntax Javascript yang baru)
   * Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
 - PHP FRAMEWORKS
+  ^ Laravel
 - WORDPRESS
 - Android Dev
+- Python
