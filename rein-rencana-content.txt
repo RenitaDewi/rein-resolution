@@ -1,0 +1,8 @@
+RENCANA KONTEN REINKARS
+
+- Javascript
+  * ES6 (Syntax Javascript yang baru)
+  * Framework Javascript
+- PHP FRAMEWORKS
+- WORDPRESS
+- Android Dev
